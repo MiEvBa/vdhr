@@ -173,15 +173,15 @@ button:before {
 
   height: 100%;
 
-          -webkit-perspective: 1200;
+          webkit-perspective: 1200;
 
   perspective: 1200;
 
-  -moz-transform: perspective(1200px);
+  moz-transform: perspective(1200px);
 
-  -webkit-transform-style: preserve-3d;
+  webkit-transform-style: preserve-3d;
 
-  -moz-transform-style: preserve-3d;
+  moz-transform-style: preserve-3d;
 
   transform-style: preserve-3d;
 
