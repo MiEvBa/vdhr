@@ -315,7 +315,7 @@ button:before {
 
 .back {
 
-  transform: rotateX(-180deg);
+  transform: rotateX(180deg);
 
   color: white;
 
@@ -323,7 +323,7 @@ button:before {
 
 .flipper:target {
 
-  transform: rotateX(180deg);
+  transform: rotateX(-180deg);
 
 }
 
