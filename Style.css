@@ -309,6 +309,10 @@ button:before {
 
   background: rgba(49, 10, 219, 0.5);
 
+  webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
   backface-visibility: hidden;
 
 }
