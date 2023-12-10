@@ -173,7 +173,7 @@ button:before {
 
   height: 100%;
 
-          webkit-perspective: 1200;
+          webkit-perspective: -1200;
 
   perspective: 1200;
 
