@@ -160,15 +160,7 @@ button:before {
   font-size: 0px;
   line-height: 50px;
 }
-@media (max-width: 768px) {
-  h1 {font-size: 3em}
-  h1 span {font-size:14px}
-  #timer span {font-size: 3em}
-  form input {font-size:20px}
-}
-@media (max-width: 400px) {
-  h1 {font-size: 2em}
-}
+
 
 
 
